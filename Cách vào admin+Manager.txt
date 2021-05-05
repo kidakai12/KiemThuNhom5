@@ -1,0 +1,8 @@
+http://localhost:8080/FastFood-master/fastfood/admin/login.php
+
+ADMIN
+tk:admin
+pass:admin
+Manager
+tk:manager
+pass:manager

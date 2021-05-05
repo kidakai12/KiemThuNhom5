@@ -1,0 +1,17 @@
+Cách làm chức năng:
+- Mỗi 1 chức năng có 1 file word mô tả chức năng có: 
+	Mô tả module chức năng,đặc tả, sequence, bảng testcase, bảng mô tả giao diện
+- file code để test chức năng + giao diện
+- in ra
+Bảng Testcase:
+-Tên chức năng
+-Ngày test
+-Module
+-Version
+-Mô tả chức năng
+-Công cụ test
+-Dữ liệu đầu vào
+-kết quả mong đợi
+-kết quả thực tế
+-Kết quả test(Pass hoặc Fail)
+-tên người thực hiện
