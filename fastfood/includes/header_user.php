@@ -44,13 +44,6 @@
 				</div>
 			</div>
 			<div id="mid">
-				<div class="md_search">
-					<input id="all" type="text" name="all" value="" placeholder="Tìm kiếm..." style="padding-left: 1%;">
-					<button type="button" value="search" onclick="searchItem(1);">
-						<i class="fa fa-search">
-						</i>
-					</button>
-				</div>
 				<div class="md_banner">
 					<a href="index.php" title="VIE Food">
 						<img src="IMAGES/logo.png">
