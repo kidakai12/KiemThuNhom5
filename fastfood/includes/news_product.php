@@ -23,7 +23,7 @@
 			$result=mysqli_query($dbc,$query);check_errors($result,$query);
 			while(list($matt,$tieude,$noidung,$thoigiandang,$hinhanh)=mysqli_fetch_array($result,MYSQLI_NUM))
 		    {?>
-				<div class="col-md-3 col-sm-3 col-xs-12" style="padding: 0;">
+				<div class="col-md-3 col-sm-3 col-xs-12">
 					<div class="product-item" style="margin-left: 2%;">
 						<div class="prt_item_banner">
 							<a href="chitiettintuc.php?matt=<?php echo $matt ?>">

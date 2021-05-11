@@ -70,6 +70,7 @@
 									<?php
 										if(isset($km)){
 									?>
+								
 										<div class="prt_item_price">
 											<span style="text-decoration: line-through;"> <?php echo number_format($gia,0,',','.'); ?> ₫ </span>
 											<span style="color: red;">
